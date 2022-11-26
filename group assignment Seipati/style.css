@@ -1,0 +1,126 @@
+body{
+    background-color: antiquewhite;
+}
+section{
+    display: flex;
+}
+.body-para {
+    padding:30px;
+}
+.kany{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 10px;
+}
+.nthaby{
+    display: flex;
+}
+
+.card-1 {
+    background-image: url('pres.jpg');
+    background-size: cover;
+    width: 300px;
+    display: flex;
+    align-items: flex-end;
+}
+
+
+.card-details {
+    color: white;
+    height: 30%;
+    width: 100%;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.644);
+}
+.card-2 {
+    background-image: url('vice.jpg');
+    background-size: cover;
+    width: 300px;
+    display: flex;
+    align-items: flex-end;
+}
+
+
+.card-details {
+    color: white;
+    height: 30%;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.644);
+}
+.card-3 {
+    background-image: url('treasurer.jpg');
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    display: flex;
+    align-items: flex-end;
+}
+
+
+.card-details {
+    color: white;
+    height: 30%;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.644);
+}
+.p data{
+    display: flex;
+}
+.dumi{
+    display: flex;
+}
+.gimni{
+    display: flex;
+}
+.card-4{
+    background-image: url('pres2.jpg');
+    background-size: cover;
+    width: 300px;
+    display: flex;
+    align-items: flex-end;
+}
+
+
+.card-details {
+    color: white;
+    height: 30%;
+    width: 100%;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.644);
+}
+.card-5{
+    background-image: url('vice4.jpg');
+    background-size: cover;
+    width: 300px;
+    display: flex;
+    align-items: flex-end;
+}
+
+
+.card-details {
+    color: white;
+    height: 30%;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.644);
+}
+.card-6{
+    background-image: url('vice2.jpg');
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    display: flex;
+    align-items: flex-end;
+}
+
+
+.card-details {
+    color: white;
+    height: 30%;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.644);
+}
+
+
+
+
+
